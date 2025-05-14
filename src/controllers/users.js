@@ -1,41 +1,61 @@
-const { getAllUsers: fetchUsers, addUser: processUsers, deleteUser: removeUser } = require('../models/user');
+import { getAllUsers as fetchUsers, addUser as processUsers, deleteUser as removeUser } from '../models/user.js';
+import logger from '../utils/logger.js';
+import responsehandler from '../middleware/responseHandler.js';
+
 
 function getAllUsers(req, res) {
-  const users = fetchUsers();
-  res.status(200).json({ data: users, msg: 'Users retrieved successfully' });
+  try {
+    const users = fetchUsers();
+    res.success({ data: users});
+    logger.info('Fetched all users successfully');
+  } catch (error) {
+    logger.error('Error fetching users:', error);
+    res.serverError({ msg: 'Error fetching users' });
+  }
 }
 
 function addUser(req, res) {
-  const userData = Array.isArray(req.body) ? req.body : [req.body];
-  const { addedUsers, invalidUsers } = processUsers(userData);
+  try {
+    const userData = Array.isArray(req.body) ? req.body : [req.body];
+    const { addedUsers, invalidUsers } = processUsers(userData);
+    if (invalidUsers.length > 0) {
+      logger.warn('Some users have missing fields:', invalidUsers);
+      return res.invalid({
+        msg: 'Some users have missing fields',
+        data: { invalidUsers },
+      });
+    }
 
-  if (invalidUsers.length > 0) {
-    return res.status(400).json({
-      msg: 'Some users have missing fields',
-      data: { invalidUsers },
-    });
+    logger.info(`Added users successfully: ${JSON.stringify(addedUsers)}`);
+    res.created({ data: addedUsers });
+  } catch (error) {
+    logger.error('Error adding users:', error);
+    res.serverError({ msg: 'Error adding users' });
   }
-
-  res.status(201).json({
-    msg: 'Users added successfully',
-    data: addedUsers,
-  });
 }
 
 function deleteUser(req, res) {
-  const userId = parseInt(req.params.id);
+  try {
+    const userId = parseInt(req.params.id);
 
-  if (isNaN(userId)) {
-    return res.status(400).json({ msg: 'Invalid user ID' });
+    if (isNaN(userId)) {
+      logger.warn('Invalid user ID provided:', req.params.id);
+      return res.invalid({ msg: 'Invalid user ID' });
+    }
+
+    const deletedUser = removeUser(userId);
+
+    if (!deletedUser) {
+      logger.warn(`User not found for ID: ${userId}`);
+      return res.unauthorized({ msg: 'User not found' });
+    }
+
+    logger.info(`Deleted user successfully: ${JSON.stringify(deletedUser)}`);
+    res.success({ msg: 'User deleted successfully', data: deletedUser });
+  } catch (error) {
+    logger.error('Error deleting user:', error);
+    res.serverError({ msg: 'Error deleting user' });
   }
-
-  const deletedUser = removeUser(userId);
-
-  if (!deletedUser) {
-    return res.status(404).json({ msg: 'User not found' });
-  }
-
-  res.status(200).json({ msg: 'User deleted successfully', data: deletedUser });
 }
 
 module.exports = {

@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3001;
 
 app.use(morgan('dev'));
 
-app.use(express.json());
+app.use(express.json({limit: '16kb'}));
 app.use(express.static(path.join(__dirname, './public')));
 app.use('/api/users', userRoutes);  // final endpoint for users
 

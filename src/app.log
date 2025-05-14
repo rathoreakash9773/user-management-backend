@@ -1,0 +1,417 @@
+2025-05-14 11:16:58 info: User added: {"id":1,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 11:16:58 info: User added: {"id":2,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 11:16:58 info: User added: {"id":3,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 11:16:58 info: User added: {"id":4,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 11:16:58 info: User added: {"id":5,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 11:16:58 info: User added: {"id":6,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 11:16:58 info: User added: {"id":7,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 11:16:58 info: User added: {"id":8,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 11:16:58 info: Added users successfully: [{"id":1,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":2,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":3,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":4,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":5,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":6,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":7,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":8,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 11:16:59 info: User added: {"id":9,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 11:16:59 info: User added: {"id":10,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 11:16:59 info: User added: {"id":11,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 11:16:59 info: User added: {"id":12,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 11:16:59 info: User added: {"id":13,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 11:16:59 info: User added: {"id":14,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 11:16:59 info: User added: {"id":15,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 11:16:59 info: User added: {"id":16,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 11:16:59 info: Added users successfully: [{"id":9,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":10,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":11,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":12,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":13,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":14,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":15,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":16,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 11:17:25 info: Fetching all users
+2025-05-14 11:17:25 info: Fetched all users successfully
+2025-05-14 11:17:27 info: Fetching all users
+2025-05-14 11:17:27 info: Fetched all users successfully
+2025-05-14 12:12:12 info: Fetching all users
+2025-05-14 12:12:12 info: Fetched all users successfully
+2025-05-14 12:12:13 info: Fetching all users
+2025-05-14 12:12:13 info: Fetched all users successfully
+2025-05-14 12:12:43 info: Fetching all users
+2025-05-14 12:12:43 info: Fetched all users successfully
+2025-05-14 12:12:51 info: Fetching all users
+2025-05-14 12:12:51 info: Fetched all users successfully
+2025-05-14 12:15:32 info: Fetching all users
+2025-05-14 12:15:32 info: Fetched all users successfully
+2025-05-14 12:15:34 info: User deleted: {"id":13,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:15:34 info: Deleted user successfully: {"id":13,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:15:34 info: User deleted: {"id":14,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:15:34 info: Deleted user successfully: {"id":14,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:15:34 info: User deleted: {"id":15,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:15:34 info: Deleted user successfully: {"id":15,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:15:35 info: User deleted: {"id":16,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:15:35 info: Deleted user successfully: {"id":16,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:15:36 info: User deleted: {"id":9,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:15:36 info: Deleted user successfully: {"id":9,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:15:37 info: User deleted: {"id":10,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:15:37 info: Deleted user successfully: {"id":10,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:15:37 info: User deleted: {"id":11,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:15:37 info: Deleted user successfully: {"id":11,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:15:38 info: User deleted: {"id":12,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:15:38 info: Deleted user successfully: {"id":12,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:15:40 info: Fetching all users
+2025-05-14 12:15:40 info: Fetched all users successfully
+2025-05-14 12:18:12 info: Fetching all users
+2025-05-14 12:18:12 info: Fetched all users successfully
+2025-05-14 12:19:20 info: Fetching all users
+2025-05-14 12:19:20 info: Fetched all users successfully
+2025-05-14 12:20:20 info: Fetching all users
+2025-05-14 12:20:20 info: Fetched all users successfully
+2025-05-14 12:20:29 info: User added: {"id":17,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:20:29 info: User added: {"id":18,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:20:29 info: User added: {"id":19,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:20:29 info: User added: {"id":20,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:20:29 info: User added: {"id":21,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:20:29 info: User added: {"id":22,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:20:29 info: User added: {"id":23,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:20:29 info: User added: {"id":24,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:20:29 info: Added users successfully: [{"id":17,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":18,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":19,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":20,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":21,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":22,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":23,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":24,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 12:20:29 info: User added: {"id":25,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:20:29 info: User added: {"id":26,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:20:29 info: User added: {"id":27,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:20:29 info: User added: {"id":28,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:20:29 info: User added: {"id":29,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:20:29 info: User added: {"id":30,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:20:29 info: User added: {"id":31,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:20:29 info: User added: {"id":32,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:20:29 info: Added users successfully: [{"id":25,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":26,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":27,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":28,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":29,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":30,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":31,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":32,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 12:20:31 info: Fetching all users
+2025-05-14 12:20:31 info: Fetched all users successfully
+2025-05-14 12:20:33 info: Fetching all users
+2025-05-14 12:20:33 info: Fetched all users successfully
+2025-05-14 12:20:36 info: User deleted: {"id":25,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:20:36 info: Deleted user successfully: {"id":25,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:20:37 info: User deleted: {"id":26,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:20:37 info: Deleted user successfully: {"id":26,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:20:37 info: User deleted: {"id":27,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:20:37 info: Deleted user successfully: {"id":27,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:20:37 info: User deleted: {"id":28,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:20:37 info: Deleted user successfully: {"id":28,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:20:37 info: User deleted: {"id":29,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:20:37 info: Deleted user successfully: {"id":29,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:20:38 info: User deleted: {"id":30,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:20:38 info: Deleted user successfully: {"id":30,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:20:38 info: User deleted: {"id":31,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:20:38 info: Deleted user successfully: {"id":31,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:20:39 info: User deleted: {"id":32,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:20:39 info: Deleted user successfully: {"id":32,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:20:40 info: Fetching all users
+2025-05-14 12:20:40 info: Fetched all users successfully
+2025-05-14 12:20:50 info: Fetching all users
+2025-05-14 12:20:50 info: Fetched all users successfully
+2025-05-14 12:21:06 info: Fetching all users
+2025-05-14 12:21:06 info: Fetched all users successfully
+2025-05-14 12:21:47 info: Fetching all users
+2025-05-14 12:21:47 info: Fetched all users successfully
+2025-05-14 12:30:49 info: Fetching all users
+2025-05-14 12:30:49 info: Fetched all users successfully
+2025-05-14 12:30:50 info: Fetching all users
+2025-05-14 12:30:50 info: Fetched all users successfully
+2025-05-14 12:35:24 info: Fetching all users
+2025-05-14 12:35:24 info: Fetched all users successfully
+2025-05-14 12:35:33 info: Fetching all users
+2025-05-14 12:35:33 info: Fetched all users successfully
+2025-05-14 12:40:29 info: Fetching all users
+2025-05-14 12:40:29 info: Fetched all users successfully
+2025-05-14 12:41:47 info: Fetching all users
+2025-05-14 12:41:47 info: Fetched all users successfully
+2025-05-14 12:43:21 info: Fetching all users
+2025-05-14 12:43:21 info: Fetched all users successfully
+2025-05-14 12:43:22 info: Fetching all users
+2025-05-14 12:43:22 info: Fetched all users successfully
+2025-05-14 12:43:22 info: Fetching all users
+2025-05-14 12:43:22 info: Fetched all users successfully
+2025-05-14 12:43:23 info: Fetching all users
+2025-05-14 12:43:23 info: Fetched all users successfully
+2025-05-14 12:44:09 info: Fetching all users
+2025-05-14 12:44:09 info: Fetched all users successfully
+2025-05-14 12:45:49 info: Fetching all users
+2025-05-14 12:45:49 info: Fetched all users successfully
+2025-05-14 12:47:51 info: Fetching all users
+2025-05-14 12:47:51 info: Fetched all users successfully
+2025-05-14 12:55:24 info: Fetching all users
+2025-05-14 12:55:24 info: Fetched all users successfully
+2025-05-14 12:55:26 info: Fetching all users
+2025-05-14 12:55:26 info: Fetched all users successfully
+2025-05-14 12:55:26 info: Fetching all users
+2025-05-14 12:55:26 info: Fetched all users successfully
+2025-05-14 12:55:38 info: Fetching all users
+2025-05-14 12:55:38 info: Fetched all users successfully
+2025-05-14 12:55:39 info: Fetching all users
+2025-05-14 12:55:39 info: Fetched all users successfully
+2025-05-14 12:55:41 info: Fetching all users
+2025-05-14 12:55:41 info: Fetched all users successfully
+2025-05-14 12:55:43 info: Fetching all users
+2025-05-14 12:55:43 info: Fetched all users successfully
+2025-05-14 12:57:58 info: Fetching all users
+2025-05-14 12:57:58 info: Fetched all users successfully
+2025-05-14 12:58:00 info: User deleted: {"id":21,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:58:00 info: Deleted user successfully: {"id":21,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:58:01 info: User deleted: {"id":22,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:58:01 info: Deleted user successfully: {"id":22,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:58:01 info: User deleted: {"id":23,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:58:01 info: Deleted user successfully: {"id":23,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:58:01 info: User deleted: {"id":24,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:58:01 info: Deleted user successfully: {"id":24,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:58:04 info: User deleted: {"id":17,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:58:04 info: Deleted user successfully: {"id":17,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:58:04 info: User deleted: {"id":18,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:58:04 info: Deleted user successfully: {"id":18,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:58:05 info: User deleted: {"id":19,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:58:05 info: Deleted user successfully: {"id":19,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:58:05 info: User deleted: {"id":20,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:58:05 info: Deleted user successfully: {"id":20,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:58:24 info: User added: {"id":33,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 12:58:24 info: User added: {"id":34,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 12:58:24 info: User added: {"id":35,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 12:58:24 info: User added: {"id":36,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 12:58:24 info: User added: {"id":37,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 12:58:24 info: User added: {"id":38,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 12:58:24 info: User added: {"id":39,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 12:58:24 info: User added: {"id":40,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 12:58:24 info: Added users successfully: [{"id":33,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":34,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":35,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":36,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":37,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":38,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":39,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":40,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 12:58:25 info: Fetching all users
+2025-05-14 12:58:25 info: Fetched all users successfully
+2025-05-14 12:59:22 info: Fetching all users
+2025-05-14 12:59:22 info: Fetched all users successfully
+2025-05-14 13:00:45 info: Fetching all users
+2025-05-14 13:00:45 info: Fetched all users successfully
+2025-05-14 13:00:46 info: Fetching all users
+2025-05-14 13:00:46 info: Fetched all users successfully
+2025-05-14 13:00:47 info: Fetching all users
+2025-05-14 13:00:47 info: Fetched all users successfully
+2025-05-14 13:00:48 info: Fetching all users
+2025-05-14 13:00:48 info: Fetched all users successfully
+2025-05-14 14:16:50 info: Fetching all users
+2025-05-14 14:16:50 info: Fetched all users successfully
+2025-05-14 14:16:55 info: Fetching all users
+2025-05-14 14:16:55 info: Fetched all users successfully
+2025-05-14 14:16:58 info: User deleted: {"id":37,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:16:58 info: Deleted user successfully: {"id":37,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:16:58 info: User deleted: {"id":38,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:16:58 info: Deleted user successfully: {"id":38,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:16:58 info: User deleted: {"id":39,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:16:58 info: Deleted user successfully: {"id":39,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:16:58 info: User deleted: {"id":40,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:16:58 info: Deleted user successfully: {"id":40,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:17:01 info: User deleted: {"id":33,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:17:01 info: Deleted user successfully: {"id":33,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:17:01 info: User deleted: {"id":34,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:17:01 info: Deleted user successfully: {"id":34,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:17:01 info: User deleted: {"id":35,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:17:01 info: Deleted user successfully: {"id":35,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:17:02 info: User deleted: {"id":36,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:17:02 info: Deleted user successfully: {"id":36,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:17:03 info: Fetching all users
+2025-05-14 14:17:03 info: Fetched all users successfully
+2025-05-14 14:17:27 info: Fetching all users
+2025-05-14 14:17:27 info: Fetched all users successfully
+2025-05-14 14:17:28 info: Fetching all users
+2025-05-14 14:17:28 info: Fetched all users successfully
+2025-05-14 14:17:39 info: Fetching all users
+2025-05-14 14:17:39 info: Fetched all users successfully
+2025-05-14 14:17:46 info: Fetching all users
+2025-05-14 14:17:46 info: Fetched all users successfully
+2025-05-14 14:18:34 info: Fetching all users
+2025-05-14 14:18:34 info: Fetched all users successfully
+2025-05-14 14:20:12 info: Fetching all users
+2025-05-14 14:20:12 info: Fetched all users successfully
+2025-05-14 14:21:06 info: User added: {"id":41,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:21:06 info: User added: {"id":42,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:21:06 info: User added: {"id":43,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:21:06 info: User added: {"id":44,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:21:06 info: User added: {"id":45,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:21:06 info: User added: {"id":46,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:21:06 info: User added: {"id":47,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:21:06 info: User added: {"id":48,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:21:06 info: Added users successfully: [{"id":41,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":42,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":43,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":44,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":45,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":46,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":47,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":48,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 14:21:06 info: User added: {"id":49,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:21:06 info: User added: {"id":50,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:21:06 info: User added: {"id":51,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:21:06 info: User added: {"id":52,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:21:06 info: User added: {"id":53,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:21:06 info: User added: {"id":54,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:21:06 info: User added: {"id":55,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:21:06 info: User added: {"id":56,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:21:06 info: Added users successfully: [{"id":49,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":50,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":51,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":52,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":53,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":54,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":55,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":56,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 14:21:08 info: Fetching all users
+2025-05-14 14:21:08 info: Fetched all users successfully
+2025-05-14 14:21:12 info: Fetching all users
+2025-05-14 14:21:12 info: Fetched all users successfully
+2025-05-14 14:22:33 info: Fetching all users
+2025-05-14 14:22:33 info: Fetched all users successfully
+2025-05-14 14:22:34 info: Fetching all users
+2025-05-14 14:22:34 info: Fetched all users successfully
+2025-05-14 14:22:34 info: Fetching all users
+2025-05-14 14:22:34 info: Fetched all users successfully
+2025-05-14 14:22:35 info: Fetching all users
+2025-05-14 14:22:35 info: Fetched all users successfully
+2025-05-14 14:22:36 info: User deleted: {"id":54,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:22:36 info: Deleted user successfully: {"id":54,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:22:37 info: User deleted: {"id":55,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:22:37 info: Deleted user successfully: {"id":55,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:22:39 info: Fetching all users
+2025-05-14 14:22:39 info: Fetched all users successfully
+2025-05-14 14:22:40 info: Fetching all users
+2025-05-14 14:22:40 info: Fetched all users successfully
+2025-05-14 14:22:41 info: Fetching all users
+2025-05-14 14:22:41 info: Fetched all users successfully
+2025-05-14 14:22:43 info: Fetching all users
+2025-05-14 14:22:43 info: Fetched all users successfully
+2025-05-14 14:22:45 info: Fetching all users
+2025-05-14 14:22:45 info: Fetched all users successfully
+2025-05-14 14:22:46 info: Fetching all users
+2025-05-14 14:22:46 info: Fetched all users successfully
+2025-05-14 14:22:47 info: Fetching all users
+2025-05-14 14:22:47 info: Fetched all users successfully
+2025-05-14 14:22:47 info: Fetching all users
+2025-05-14 14:22:47 info: Fetched all users successfully
+2025-05-14 14:22:48 info: Fetching all users
+2025-05-14 14:22:48 info: Fetched all users successfully
+2025-05-14 14:22:53 info: Fetching all users
+2025-05-14 14:22:53 info: Fetched all users successfully
+2025-05-14 14:22:55 info: User deleted: {"id":53,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:22:55 info: Deleted user successfully: {"id":53,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:22:55 info: User deleted: {"id":56,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:22:55 info: Deleted user successfully: {"id":56,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:22:56 info: User deleted: {"id":49,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:22:56 info: Deleted user successfully: {"id":49,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:22:57 info: User deleted: {"id":50,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:22:57 info: Deleted user successfully: {"id":50,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:22:57 info: User deleted: {"id":51,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:22:57 info: Deleted user successfully: {"id":51,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:22:57 info: User deleted: {"id":52,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:22:57 info: Deleted user successfully: {"id":52,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:22:58 info: Fetching all users
+2025-05-14 14:22:58 info: Fetched all users successfully
+2025-05-14 14:23:01 info: Fetching all users
+2025-05-14 14:23:01 info: Fetched all users successfully
+2025-05-14 14:23:02 info: Fetching all users
+2025-05-14 14:23:02 info: Fetched all users successfully
+2025-05-14 14:23:20 info: Fetching all users
+2025-05-14 14:23:20 info: Fetched all users successfully
+2025-05-14 14:23:21 info: Fetching all users
+2025-05-14 14:23:21 info: Fetched all users successfully
+2025-05-14 14:23:23 info: Fetching all users
+2025-05-14 14:23:23 info: Fetched all users successfully
+2025-05-14 14:23:59 info: Fetching all users
+2025-05-14 14:23:59 info: Fetched all users successfully
+2025-05-14 14:24:00 info: Fetching all users
+2025-05-14 14:24:00 info: Fetched all users successfully
+2025-05-14 14:24:06 info: User added: {"id":57,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:24:06 info: User added: {"id":58,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:24:06 info: User added: {"id":59,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:24:06 info: User added: {"id":60,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:24:06 info: User added: {"id":61,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:24:06 info: User added: {"id":62,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:24:06 info: User added: {"id":63,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:24:06 info: User added: {"id":64,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:24:06 info: Added users successfully: [{"id":57,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":58,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":59,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":60,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":61,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":62,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":63,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":64,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 14:24:07 info: Fetching all users
+2025-05-14 14:24:07 info: Fetched all users successfully
+2025-05-14 14:24:10 info: Fetching all users
+2025-05-14 14:24:10 info: Fetched all users successfully
+2025-05-14 14:24:12 info: Fetching all users
+2025-05-14 14:24:12 info: Fetched all users successfully
+2025-05-14 14:24:15 info: Fetching all users
+2025-05-14 14:24:15 info: Fetched all users successfully
+2025-05-14 14:24:15 info: Fetching all users
+2025-05-14 14:24:15 info: Fetched all users successfully
+2025-05-14 14:24:16 info: Fetching all users
+2025-05-14 14:24:16 info: Fetched all users successfully
+2025-05-14 14:28:34 info: Fetching all users
+2025-05-14 14:28:34 info: Fetched all users successfully
+2025-05-14 14:28:59 info: Fetching all users
+2025-05-14 14:28:59 info: Fetched all users successfully
+2025-05-14 14:29:04 info: Fetching all users
+2025-05-14 14:29:04 info: Fetched all users successfully
+2025-05-14 14:29:14 info: Fetching all users
+2025-05-14 14:29:14 info: Fetched all users successfully
+2025-05-14 14:29:17 info: Fetching all users
+2025-05-14 14:29:17 info: Fetched all users successfully
+2025-05-14 14:29:20 info: Fetching all users
+2025-05-14 14:29:20 info: Fetched all users successfully
+2025-05-14 14:29:29 info: Fetching all users
+2025-05-14 14:29:29 info: Fetched all users successfully
+2025-05-14 14:30:08 info: Fetching all users
+2025-05-14 14:30:08 info: Fetched all users successfully
+2025-05-14 14:30:09 info: Fetching all users
+2025-05-14 14:30:09 info: Fetched all users successfully
+2025-05-14 14:30:11 info: User deleted: {"id":57,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:30:11 info: Deleted user successfully: {"id":57,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:30:12 info: User deleted: {"id":58,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:30:12 info: Deleted user successfully: {"id":58,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:30:12 info: User deleted: {"id":59,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:30:12 info: Deleted user successfully: {"id":59,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:30:12 info: User deleted: {"id":60,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:30:12 info: Deleted user successfully: {"id":60,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:30:12 info: User deleted: {"id":61,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:30:12 info: Deleted user successfully: {"id":61,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:30:12 info: User deleted: {"id":62,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:30:12 info: Deleted user successfully: {"id":62,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:30:13 info: User deleted: {"id":63,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:30:13 info: Deleted user successfully: {"id":63,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:30:13 info: User deleted: {"id":64,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:30:13 info: Deleted user successfully: {"id":64,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:30:13 info: Fetching all users
+2025-05-14 14:30:13 info: Fetched all users successfully
+2025-05-14 14:30:15 info: User deleted: {"id":41,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:30:15 info: Deleted user successfully: {"id":41,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:30:16 info: User deleted: {"id":42,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:30:16 info: Deleted user successfully: {"id":42,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:30:16 info: User deleted: {"id":43,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:30:16 info: Deleted user successfully: {"id":43,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:30:16 info: User deleted: {"id":44,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:30:16 info: Deleted user successfully: {"id":44,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:30:16 info: User deleted: {"id":45,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:30:16 info: Deleted user successfully: {"id":45,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:30:17 info: User deleted: {"id":46,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:30:17 info: Deleted user successfully: {"id":46,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:30:17 info: User deleted: {"id":47,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:30:17 info: Deleted user successfully: {"id":47,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:30:17 info: User deleted: {"id":48,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:30:17 info: Deleted user successfully: {"id":48,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:30:17 info: Fetching all users
+2025-05-14 14:30:17 info: Fetched all users successfully
+2025-05-14 14:30:24 info: Fetching all users
+2025-05-14 14:30:24 info: Fetched all users successfully
+2025-05-14 14:30:25 info: Fetching all users
+2025-05-14 14:30:25 info: Fetched all users successfully
+2025-05-14 14:31:06 info: Fetching all users
+2025-05-14 14:31:06 info: Fetched all users successfully
+2025-05-14 14:31:07 info: Fetching all users
+2025-05-14 14:31:07 info: Fetched all users successfully
+2025-05-14 14:31:08 info: Fetching all users
+2025-05-14 14:31:08 info: Fetched all users successfully
+2025-05-14 14:31:09 info: Fetching all users
+2025-05-14 14:31:09 info: Fetched all users successfully
+2025-05-14 14:31:09 info: Fetching all users
+2025-05-14 14:31:09 info: Fetched all users successfully
+2025-05-14 14:32:54 info: User added: {"id":65,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:32:54 info: User added: {"id":66,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:32:54 info: User added: {"id":67,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:32:54 info: User added: {"id":68,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:32:54 info: User added: {"id":69,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:32:54 info: User added: {"id":70,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:32:54 info: User added: {"id":71,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:32:54 info: User added: {"id":72,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:32:54 info: Added users successfully: [{"id":65,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":66,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":67,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":68,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":69,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":70,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":71,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":72,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 14:32:55 info: User added: {"id":73,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:32:55 info: User added: {"id":74,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:32:55 info: User added: {"id":75,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:32:55 info: User added: {"id":76,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:32:55 info: User added: {"id":77,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:32:55 info: User added: {"id":78,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:32:55 info: User added: {"id":79,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:32:55 info: User added: {"id":80,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:32:55 info: Added users successfully: [{"id":73,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":74,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":75,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":76,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":77,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":78,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":79,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":80,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 14:32:55 info: User added: {"id":81,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"}
+2025-05-14 14:32:55 info: User added: {"id":82,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"}
+2025-05-14 14:32:55 info: User added: {"id":83,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"}
+2025-05-14 14:32:55 info: User added: {"id":84,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"}
+2025-05-14 14:32:55 info: User added: {"id":85,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"}
+2025-05-14 14:32:55 info: User added: {"id":86,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"}
+2025-05-14 14:32:55 info: User added: {"id":87,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"}
+2025-05-14 14:32:55 info: User added: {"id":88,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}
+2025-05-14 14:32:55 info: Added users successfully: [{"id":81,"name":"Nick Francis","email":"Nick@gmail.com","image":"http://localhost:3001/1.png"},{"id":82,"name":"Denny Swindle","email":"Denny@gmail.com","image":"http://localhost:3001/2.png"},{"id":83,"name":"Jared McDaniel","email":"Jared@gmail.com","image":"http://localhost:3001/3.png"},{"id":84,"name":"Andrea Kayal","email":"Andrea@gmail.com","image":"http://localhost:3001/4.png"},{"id":85,"name":"Shawna Fisher","email":"tShawna@gmail.com","image":"http://localhost:3001/5.png"},{"id":86,"name":"Kristen Bryant Smith","email":"Kristen@gmail.com","image":"http://localhost:3001/6.png"},{"id":87,"name":"Leah Knobler","email":"Leahknobler@gmail.com","image":"http://localhost:3001/7.png"},{"id":88,"name":"Eli Overbey","email":"Elioverbey@gmail.com","image":"http://localhost:3001/8.png"}]
+2025-05-14 14:33:00 info: Fetching all users
+2025-05-14 14:33:00 info: Fetched all users successfully
+2025-05-14 14:34:01 info: Fetching all users
+2025-05-14 14:34:01 info: Fetched all users successfully

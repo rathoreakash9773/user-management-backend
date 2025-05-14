@@ -8,5 +8,3 @@ router.post('/', addUser);    // post request endpoint
 router.delete('/:id', deleteUser); // delete request endpoint
 
 module.exports = router;
-
-
