@@ -12,7 +12,7 @@ function getAllUsers(req, res) {
     logger.error('Error fetching users:', error);
     res.serverError({ msg: 'Error fetching users' });
   }
-}
+} 
 
 function addUser(req, res) {
   try {
@@ -58,7 +58,7 @@ function deleteUser(req, res) {
   }
 }
 
-module.exports = {
+export {
   getAllUsers,
   addUser,
   deleteUser,
